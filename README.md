@@ -4,7 +4,7 @@
 - 패캠 30개 프로젝트로 배우는 Android 앱 개발 with Kotlin 초격차 패키지 Online.
   https://fastcampus.app/course-detail/203942
 
-# Null Safe
+## Null Safe
     1. Scope Function
      * 코드를 좀 더 읽기 쉽게 만들어 주는 함 
         (1) let - it
