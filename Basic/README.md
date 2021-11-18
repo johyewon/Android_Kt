@@ -7,6 +7,8 @@
 # Basic
   1. BMI 계산기 (BMI)
      * LinearLayout
+     * 화면 전환
+     * Intent 값 전달
     
   2. 로또번호 추첨기 (Lotto)
      * Collection
@@ -14,10 +16,15 @@
      * ConstraintLayout
      * Shape Resource
      * apply
+     * by lazy
+     * forEach
+     * HashSet
   
   3. 비밀 다이어리 (SecretDiary)
      * SharedPreference
      * ConstraintLayout
+     * Handler
+     * EditText
   
   4. 계산기 (Calculator)
   5. 전자액자 (PhotoFrame)
