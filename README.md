@@ -3,7 +3,8 @@
 
 - 패캠 30개 프로젝트로 배우는 Android 앱 개발 with Kotlin 초격차 패키지 Online.
 
-## Scope Function
+## 🙇‍♀️ Study
+    1. Scope Function
      * 코드를 좀 더 읽기 쉽게 만들어 주는 함수 
         (1) let - it
             * null 이 아닌 객체에서 람다를 실행할 때
