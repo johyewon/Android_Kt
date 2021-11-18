@@ -13,6 +13,7 @@
      * Random 함수
      * ConstraintLayout
      * Shape Resource
+     * apply
   
   3. 비밀 다이어리 (SecretDiary)
      * SharedPreference
