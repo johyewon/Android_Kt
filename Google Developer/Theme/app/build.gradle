@@ -5,16 +5,14 @@ plugins {
 
 android {
     compileSdk 31
-    buildFeatures {
-        viewBinding = true
-    }
+
     defaultConfig {
-        applicationId "com.hanix.tipcalculator"
+        applicationId "com.hanix.theme"
         minSdk 23
         targetSdk 31
         versionCode 1
         versionName "1.0"
-        vectorDrawables.useSupportLibrary = true
+
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
