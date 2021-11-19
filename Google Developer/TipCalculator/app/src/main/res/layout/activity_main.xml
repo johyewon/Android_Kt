@@ -8,7 +8,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:padding="16dp">
 
         <ImageView
@@ -108,7 +108,6 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@id/roundUpSwitchIcon"
             app:layout_constraintTop_toBottomOf="@id/tipOptions" />
-
 
         <Button
             android:id="@+id/calculateButton"
