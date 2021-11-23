@@ -39,7 +39,7 @@
      * LifeCycle
      * View Animation
      * Content Provider
-	- SAF(Storage Access Framework)
+     		- SAF(Storage Access Framework)
 
   6. 뽀모도로 타이머 (Pomodoro)
   7. 녹음기 (Record)
