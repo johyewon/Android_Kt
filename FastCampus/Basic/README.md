@@ -27,6 +27,13 @@
      * EditText
   
   4. 계산기 (Calculator)
+     * TableLayout
+     * ConstraintLayout
+     * Thread
+     * Room
+     * Kotlin 확장함수
+     * DataClass 사용
+
   5. 전자액자 (PhotoFrame)
   6. 뽀모도로 타이머 (Pomodoro)
   7. 녹음기 (Record)
