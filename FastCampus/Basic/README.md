@@ -35,6 +35,12 @@
      * DataClass 사용
 
   5. 전자액자 (PhotoFrame)
+     * Permission
+     * LifeCycle
+     * View Animation
+     * Content Provider
+	- SAF(Storage Access Framework)
+
   6. 뽀모도로 타이머 (Pomodoro)
   7. 녹음기 (Record)
   8. 심플 웹 브라우저 (WebBrowser)
